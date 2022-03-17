@@ -1,6 +1,11 @@
 # StartupLoader
 A batch file used to copy programs to startup.
 
+**IMPORTANT**
+Due to a recent Windows update, StartupLoader now needs to be run with administrator privledges.
+This can be done by right-clicking the .bat file and selecting "run as administrator."
+
+
 # Features
 - Copies files to startup (obviously)
 - Log
